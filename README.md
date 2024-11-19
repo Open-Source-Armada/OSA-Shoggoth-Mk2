@@ -43,7 +43,7 @@ Made to fill a brute force role on the frontline, the ship is layered in all dir
 
 Armour is simple char plating, can be upgraded to a players taste in expense.
 
-The low tech weapons and t2 components make this a mass produced ship that can me made in large numbers without breaking the bank, and is accesible to even newer players.
+The low tech weapons and t2 components make this a mass produced ship that can me made in large numbers without breaking the bank, and is accessible to even newer players.
 
 Maintains a solid 143 ms top speed allowing to keep up with other OSA ships, and has a good prop and fuel range.
 
@@ -51,14 +51,14 @@ Maintains a solid 143 ms top speed allowing to keep up with other OSA ships, and
 
 //Tactics//
 
-This ship is a old school 2k circle fighter that has one simple objective, light up the enemy with its autogun spam and large ammo ammount.
+This ship is a old school 2k circle fighter that has one simple objective, light up the enemy with its autogun spam and large ammo amount.
 
 2k often is the weight where acceleration begins to become slow, making fights with these ships often devolve into a moshpit, the Shoggoth is intended for such fights.
 
-These fights can get destructive, and therefore expensive, so the Shoggoth is low in expensive matterials to make the use in such grindy fights accessible.
+These fights can get destructive, and therefore expensive, so the Shoggoth is low in expensive materials to make the use in such grindy fights accessible.
 
-With the solid top speed and large spam of auto, bullying smaller ships in fleet fights is a worthwhile endever, your large ammo reserve allows you to preasure anything in your fire range.
+With the solid top speed and large spam of auto, bullying smaller ships in fleet fights is a worthwhile use of time, your large ammo reserve allows you to pressure anything in your fire range.
 
 Taking point on the most dangerous ships in a fight allows you to draw fire away from more valuable railgun ships, where they are able to support you with sniping/jousting.
 
-With warp being a upcoming feature, the large fuel and prop ammount makes your warp range large enough to make it to any fight or siege.
+With warp being a upcoming feature, the large fuel and prop amount makes your warp range large enough to make it to any fight or siege.
